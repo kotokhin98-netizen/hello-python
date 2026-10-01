@@ -1,4 +1,4 @@
-Вот готовый README.md для твоего Python проекта в том же стиле:
+
 
 ```markdown
 # Hello Python CI/CD Pipeline
